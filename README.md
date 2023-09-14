@@ -1,7 +1,6 @@
-# AdminPro - Backend
+# Seguimiento Indicadores Server
 
-Recuerden ejecutar 
-
+Ejecutar 
 ```
 npm install
 ```
